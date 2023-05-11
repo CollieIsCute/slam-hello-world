@@ -32,5 +32,6 @@
 *.app
 *.elf
 
-# ide
+# ide and MacOS
 .vscode
+.DS_Store
